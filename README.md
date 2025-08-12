@@ -66,8 +66,8 @@
       <li><strong> Buchecha:</strong> Melhor amigo de Claudinho desde a infância e parceiro de música,era ele quem escrevia a letra das músicas .</li>
     </ul>
   </section>
-    <h2>Galeria</h2>
-    <img src=""imagem do filme nosso sonho" />
+    <h2>trailer</h2>
+    <img src=" https://youtu.be/D_EXsX-hBwg"/>
   </section>e
 
   
