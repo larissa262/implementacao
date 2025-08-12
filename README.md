@@ -67,9 +67,7 @@
     </ul>
   </section>
     <h2>trailer</h2>
-    
-    [![Assista o vídeo](
-    https://youtu.be/D_EXsX-hBwg
+    https://youtu.be/D_EXsX-hBwg?si=1J9NZnlv66XuZapy
   </section>
   
 </body>
