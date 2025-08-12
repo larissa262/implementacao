@@ -67,9 +67,10 @@
     </ul>
   </section>
     <h2>trailer</h2>
-    <img src=" https://youtu.be/D_EXsX-hBwg"/>
-  </section>e
-
+    
+    [![Assista o vídeo](
+    https://youtu.be/D_EXsX-hBwg
+  </section>
   
 </body>
 </html>
